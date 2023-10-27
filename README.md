@@ -21,13 +21,6 @@ Welcome to my GitHub! I'm a Full-Stack web developer.
 
 </div>
 
-### Live Project
-1. [Tech Park IT](https://www.techparkit.org/)
-2. [HL Motors BD](https://www.hlmotorsbd.com/)
-3. [CDC Concrete Ltd.](https://cdcconcrete.com/)
-4. [Tech Park English](http://techparkenglish.com/)
-5. [Genesisedu](https://genesisedu.info/)
-6. [Genesispg](https://genesispg.info/)
 <!--
 **jahirulislammolla/jahirulislammolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
